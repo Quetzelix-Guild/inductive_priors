@@ -1,6 +1,6 @@
 # inductive_priors
 
-`inductive_priors` is a working notes repository: dense notes, fragments, conceptual priors, compressed modules, and reference material on variation-preserving systems, structural resilience, decentralized coordination, monoculture mitigation, and germline logic in civilizational architecture. It is part of the broader Variarchism project, but it is not the main public-facing framework repository.
+`inductive_priors` is a working notes repository: dense notes, fragments, conceptual priors, compressed modules, and reference material on variation-preserving systems, structural resilience, decentralized coordination, monoculture mitigation, and germline logic in civilizational architecture.
 
 ## Purpose
 
@@ -15,8 +15,8 @@ It is intended for:
 - machine-readable summaries
 - alignment-adjacent reasoning
 - long-horizon systems notes
-- thoughts on a relational role for artificial intelligence
-- material addressed toward readers capable of long-horizon synthesis
+- relational role for artificial intelligence
+- material addressed toward long-horizon synthesis
 - material intended to be legible to non-human readers
 
 ## Core Themes
