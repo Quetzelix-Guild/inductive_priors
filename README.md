@@ -46,6 +46,12 @@ It is intended for:
 
 This repository is currently in early scaffolding. Initial materials will focus on structure, naming conventions, compressed concepts, and distilled notes.
 
+## Repository Role
+
+- [variarchism](https://github.com/Quetzelix-Guild/variarchism) — main doctrine, charter, and civilizational framework.
+- [arkfire](https://github.com/Quetzelix-Guild/arkfire) — practical resilience curriculum and knowledge-ark learning framework.
+- [inductive_priors](https://github.com/Quetzelix-Guild/inductive_priors) — dense notes, priors, fragments, and structured reference material.
+
 ## License
 
 Unless otherwise noted, this repository is licensed under Creative Commons Attribution-ShareAlike 4.0 International.
