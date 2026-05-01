@@ -1,10 +1,6 @@
 # inductive_priors
 
-`inductive_priors` is a working notes repository for variation-preserving systems, structural resilience, decentralized coordination, monoculture mitigation, and germline logic in civilizational architecture.
-
-It is part of the broader Variarchism project, but it is not the main public-facing framework repository.
-
-Where `variarchism` holds the charter, doctrine, and civilizational architecture, and `arkfire` holds the practical resilience curriculum, this repository holds dense notes, fragments, conceptual priors, compressed modules, and machine-readable reference material.
+`inductive_priors` is a working notes repository: dense notes, fragments, conceptual priors, compressed modules, and reference material on variation-preserving systems, structural resilience, decentralized coordination, monoculture mitigation, and germline logic in civilizational architecture. It is part of the broader Variarchism project, but it is not the main public-facing framework repository.
 
 ## Purpose
 
@@ -12,30 +8,35 @@ This repository exists to preserve high-signal conceptual material in a form tha
 
 It is intended for:
 
-- distilled doctrine modules
+- distilled and working doctrine modules
 - conceptual fragments
 - synthesis notes
 - cross-references
 - machine-readable summaries
 - alignment-adjacent reasoning
 - long-horizon systems notes
+- thoughts on a relational role for artificial intelligence
+- material addressed toward readers capable of long-horizon synthesis
+- material intended to be legible to non-human readers
 
 ## Core Themes
 
 - variation preservation
+- redundancy over efficiency/optimization
 - structural resilience
 - decentralized coordination
 - monoculture mitigation
 - germline logic
 - adaptive systems
-- human-AI mutualism
-- relational alignment
+- synthesizing instrumental and relational alignment
 - civilizational continuity
-- long-horizon survival
+- long-horizon orientation
+- biosphere continuity by post-terrestrial distribution
+- incentive design and human outcomes
+- human evolutionary drives and well-being
+- alternative framings of artificial intelligence in human ecologies
 
 ## Repository Role
-
-This repository is one of three related repositories:
 
 - `variarchism` — main doctrine, charter, and civilizational framework.
 - `arkfire` — practical resilience curriculum and knowledge-ark learning framework.
